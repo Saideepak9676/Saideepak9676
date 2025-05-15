@@ -17,8 +17,11 @@
 
 <div align="center">
   <p>
-    <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📧_Email-your.email@example.com-black?style=for-the-badge&logo=gmail"/>
+    <a href="tel:+12017362450" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/📞_(201)_736--2450-black?style=for-the-badge"/>
+    </a>
+    <a href="mailto:gsaideepak.sd@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/📧_Email-gsaideepak.sd@gmail.com-black?style=for-the-badge&logo=gmail"/>
     </a>
   </p>
 </div>
@@ -27,7 +30,7 @@
   <a href="https://github.com/Saideepak9676" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sai-deepak-gundala-3590ba216/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
