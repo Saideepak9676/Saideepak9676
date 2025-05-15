@@ -111,7 +111,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>"Transforming Data into Intelligence through AI Innovation"</i>
-</div>
