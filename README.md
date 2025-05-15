@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👨‍💻 Saideepak Gundala
 
 **`Data Scientist`**
@@ -95,3 +96,6 @@ Data Scientist with expertise in AI-powered development, machine learning, and d
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepakgundala&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p> 
+=======
+# Git-modify
+>>>>>>> 2023888c588a94320ee586f28c8c075778367530
