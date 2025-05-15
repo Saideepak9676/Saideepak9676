@@ -1,9 +1,15 @@
+<<<<<<< HEAD
+=======
+## Hi there 👋
+
+>>>>>>> c5a34aae8ec716d0439ba9171c1d3a4ddb326b53
 # 👨‍💻 Saideepak Gundala
 
 **`Data Scientist`**
 
 Data Scientist with expertise in AI-powered development, machine learning, and data-driven insights. Proficient in Python, SQL, and tools like TensorFlow for building scalable solutions. Eager to leverage R&D experience in AI automation, web scraping, and cross-functional collaboration to deliver measurable business impact.
 
+<<<<<<< HEAD
 ```python
 class DataScientist:
     def __init__(self):
@@ -24,6 +30,8 @@ class DataScientist:
         self.goal = "Deliver measurable business impact through cross-functional collaboration"
 ```
 
+=======
+>>>>>>> c5a34aae8ec716d0439ba9171c1d3a4ddb326b53
 <p align="left">
     <a href="https://github.com/Saideepak9676?tab=repositories&sort=stargazers">
         <img 
