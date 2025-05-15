@@ -47,30 +47,45 @@
 
 ### 🛠️ Technical Skills
 
-<!-- Programming & Data Science -->
-<h4>💻 Programming & Data Science</h4>
+<!-- Data Science & ML -->
+<h4>📊 Data Science & Machine Learning</h4>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-Expert-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-Advanced-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Mining-Expert-76B900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Predictive_Modeling-Advanced-FF4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-Expert-00B4AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Annotation-Advanced-4C51BF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/A/B_Testing-Advanced-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Market_Research-Expert-20C997?style=flat-square"/>
+</p>
+
+<!-- Technologies & Tools -->
+<h4>💻 Technologies & Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat-square&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-Advanced-00B4AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/NumPy-Expert-013243?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-Advanced-FF4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jupyter-Expert-F37626?style=flat-square&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Scrapy-Advanced-00B4AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Selenium-Advanced-43B02A?style=flat-square&logo=selenium"/>
+  <img src="https://img.shields.io/badge/ReactJS-Advanced-61DAFB?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Google_Maps_API-Advanced-4285F4?style=flat-square&logo=google-maps"/>
 </p>
 
-<!-- AI & ML -->
-<h4>🤖 AI & Machine Learning</h4>
+<!-- Expertise Areas -->
+<h4>🎯 Expertise Areas</h4>
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI_Development-Expert-4B8BBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Web_Scraping-Advanced-76B900?style=flat-square"/>
-  <img src="https://img.shields.io/badge/R&D-Expert-FF4B4B?style=flat-square"/>
-</p>
-
-<!-- Tools & Cloud -->
-<h4>🛠️ Tools & Cloud</h4>
-<p>
-  <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/Jupyter-Advanced-F37626?style=flat-square&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/AI_Powered_Development-Expert-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Pipeline_Development-Expert-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Security_Analysis-Advanced-76B900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lead_Generation-Expert-FF4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Process_Automation-Expert-00B4AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Research_&_Development-Expert-4C51BF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cross_Functional_Leadership-Advanced-FF6B6B?style=flat-square"/>
 </p>
 
 ### 📊 GitHub Stats
