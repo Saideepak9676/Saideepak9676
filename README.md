@@ -1,30 +1,35 @@
 # 👨‍💻 Saideepak Gundala
 
-**`Data Scientist`**
+**`Data Scientist | AI Developer | ML Engineer`**
 
-## About Me
+### 💫 About Me
 Data Scientist with expertise in AI-powered development, machine learning, and data-driven insights. Proficient in Python, SQL, and tools like TensorFlow for building scalable solutions. Eager to leverage R&D experience in AI automation, web scraping, and cross-functional collaboration to deliver measurable business impact.
 
-## Expertise
-- AI-powered development
-- Machine Learning
-- Data-driven insights
-- Web Scraping
-- R&D in AI automation
+### 🎓 Skills & Expertise
 
-## Skills
-### Programming
+#### 💻 Programming & Data Science
 - Python
 - SQL
+- Data Analysis
+- Statistical Modeling
 
-### Tools & Technologies
+#### 🤖 AI & Machine Learning
 - TensorFlow
+- Machine Learning
+- Deep Learning
+- AI Automation
+
+#### 🛠️ Tools & Technologies
 - Docker
 - Git
 - Jupyter
+- Web Scraping
 
-### Focus
-Building scalable solutions and delivering measurable business impact through cross-functional collaboration
+### 🚀 Current Focus
+- Building scalable AI solutions
+- Developing data-driven insights
+- Cross-functional collaboration
+- R&D in AI automation
 
 <p align="left">
     <a href="https://github.com/Saideepak9676?tab=repositories&sort=stargazers">
