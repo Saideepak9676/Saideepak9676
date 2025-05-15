@@ -2,27 +2,29 @@
 
 **`Data Scientist`**
 
+## About Me
 Data Scientist with expertise in AI-powered development, machine learning, and data-driven insights. Proficient in Python, SQL, and tools like TensorFlow for building scalable solutions. Eager to leverage R&D experience in AI automation, web scraping, and cross-functional collaboration to deliver measurable business impact.
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Saideepak Gundala"
-        self.role = "Data Scientist"
-        self.expertise = [
-            "AI-powered development",
-            "Machine Learning",
-            "Data-driven insights",
-            "Web Scraping",
-            "R&D in AI automation"
-        ]
-        self.skills = {
-            "Programming": ["Python", "SQL"],
-            "Tools": ["TensorFlow", "Docker", "Git", "Jupyter"],
-            "Focus": "Building scalable solutions"
-        }
-        self.goal = "Deliver measurable business impact through cross-functional collaboration"
-```
+## Expertise
+- AI-powered development
+- Machine Learning
+- Data-driven insights
+- Web Scraping
+- R&D in AI automation
+
+## Skills
+### Programming
+- Python
+- SQL
+
+### Tools & Technologies
+- TensorFlow
+- Docker
+- Git
+- Jupyter
+
+### Focus
+Building scalable solutions and delivering measurable business impact through cross-functional collaboration
 
 <p align="left">
     <a href="https://github.com/Saideepak9676?tab=repositories&sort=stargazers">
